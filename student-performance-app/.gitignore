@@ -1,0 +1,14 @@
+# Ignore Python virtual environments
+venv/
+backend/venv/
+.env
+*.pyc
+__pycache__/
+
+# Node modules (si tu utilises React)
+frontend/node_modules/
+node_modules/
+
+# Mac/Windows files
+.DS_Store
+Thumbs.db
